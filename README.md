@@ -45,4 +45,4 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
 
 *"Exploring the intersection of mathematical rigor and computational limits."*
 
-📫 **Reach me at**: [yfw040707@gmail.com]
+📫 **Reach me at**: [wuyefan718@gmail.com]
