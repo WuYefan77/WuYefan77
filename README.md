@@ -1,10 +1,10 @@
-# Hi, I'm Yefan Wu 👋
+# Hi, I'm Yefan Wu 
 
 I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematical foundation and a passion for extreme performance optimization. My work bridges the gap between complex stochastic theories and high-performance numerical implementations.
 
 ---
 
-### 🚀 Technical Highlights
+### Technical Highlights
 
 * **Numerical Optimization & DEQs**: Developed a high-precision solver for Monotone Equilibrium Networks (MonDEQs) from scratch.
     * Achieved **$10^{-14}$ absolute precision** (machine epsilon).
@@ -29,7 +29,7 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 * **Mathematics**: Stochastic Calculus, Measure Theory, Nonlinear Dynamics, Convex Optimization.
 * **Programming**: Python (PyTorch, NumPy, SciPy, Pandas), R, MATLAB, MySQL.
@@ -37,7 +37,7 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
 
 ---
 
-### 🎓 Education
+### Education
 
 * **Bachelor of Science in Mathematics, Financial Mathematics & Statistics**
     * Focus: Stochastic Processes, PDEs, Measure Theory, and Numerical Analysis.
@@ -47,4 +47,4 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
 
 *"Exploring the intersection of mathematical rigor and computational limits."*
 
-📫 **Reach me at**: [wuyefan718@gmail.com]
+**Reach me at**: [wuyefan718@gmail.com]
