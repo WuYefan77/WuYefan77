@@ -6,10 +6,11 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
 
 ### Technical Highlights
 
-* **Numerical Optimization & DEQs**: Developed a high-precision solver for Monotone Equilibrium Networks (MonDEQs) from scratch.
-    * Achieved **$10^{-14}$ absolute precision** (machine epsilon).
-    * Realized a **1588x computational speedup** through an innovative Two-Loop Splitting algorithm and inexact splitting mechanisms.
-    * The core theoretical framework has been submitted to a top-tier international conference in systems theory.
+* **Numerical Optimization & DEQs**: Developed a high-precision solver for Cascaded Monotone Equilibrium Networks (MonDEQs) from scratch using **PyTorch (Double Precision)**.
+    * Achieved **$10^{-14}$ absolute precision**, proving numerical closure for coupled monotone inclusion problems.
+    * Realized a **$1588\times$ computational speedup** by discovering an **Inexact Splitting regime ($k=1$)** that maintains global stability without local convergence.
+    * Identified and suppressed the **"Dead Zone" latency** (750+ iterations) inherent in sequential solvers, enabling **Anytime Convergence** for real-time neuromorphic systems.
+    * The core theoretical framework and convergence proofs are currently under review for a top-tier international conference in mathematical systems theory (**MTNS 2026**).
 
 * **Continuous-Time Dynamics Modeling (Denison Research)**: Designed deterministic ODE frameworks to model population flux and state transitions (applied to Liver Fibrosis).
     * Solved high-dimensional linear ODE systems via **Matrix Exponentials**, eliminating numerical stepping errors and guaranteeing exact probability mass conservation for **irregularly sampled** longitudinal data.
