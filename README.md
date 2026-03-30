@@ -11,10 +11,12 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
     * Realized a **1588x computational speedup** through an innovative Two-Loop Splitting algorithm and inexact splitting mechanisms.
     * The core theoretical framework has been submitted to a top-tier international conference in systems theory.
 
-* **Biomedical Modeling (Denison Research)**: Applied advanced ODE systems to model disease progression (e.g., Liver Fibrosis).
-    * Solved high-dimensional compartmental systems using **Matrix Exponentials** to eliminate stepping errors and ensure mass conservation.
-    * Performed **Maximum Likelihood Estimation (MLE)** and model selection (**AIC/BIC**) on longitudinal clinical cohorts.
-    * Handled diagnostic uncertainty by incorporating **Mixture Likelihood** as latent states.
+*   **Continuous-Time Dynamics Modeling (Denison Research)**: Designed deterministic ODE frameworks to model population flux and state transitions (applied to Liver Fibrosis).
+    *   Solved high-dimensional linear ODE systems via **Matrix Exponentials**, eliminating numerical stepping errors and guaranteeing exact probability mass conservation for **irregularly sampled** longitudinal data.
+    *   Engineered a custom **Maximum Likelihood Estimation (MLE)** optimization pipeline; applied **AIC/BIC** criteria to rigorously penalize model complexity and prevent overfitting on **sparse transition matrices**.
+    *   Handled observational noise and diagnostic ambiguity by embedding **Mixture Likelihoods** (treating uncertain observations as latent probabilistic states).
+    *   Extended the analytical framework to non-autonomous systems $\mathbf{Q}(t)$ using **RK45 numerical integration** to simulate counterfactuals under dynamic, time-varying covariates.
+
 
 * **Quantitative Finance & Pricing**: Built a modular engine for pricing complex financial derivatives.
     * Implemented **Monte Carlo simulations** and **Finite Difference Methods (PDE)** for Exotic Options pricing.
