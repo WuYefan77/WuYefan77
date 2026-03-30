@@ -23,7 +23,7 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
     * Applied **Variance Reduction** techniques to significantly enhance simulation efficiency.
     * Experienced in stochastic control and time-series modeling for dynamic portfolio optimization.
 
-* **Stochastic Dynamics & Complex Systems Modeling
+* **Stochastic Dynamics & Complex Systems Modeling**:
    * Architected a 5D non-linear Stochastic Differential Equation (SDE) framework with multiplicative noise (square-root diffusion) to model state-dependent volatility in biophysical networks.
    * Engineered a decoupled Monte Carlo engine featuring a custom Euler-Maruyama solver, memory-caching, and systematic deterministic ablation studies (factor knockouts) to identify dynamic bifurcations.
    * Quantified temporal reliability degradation by extracting event-driven signals (Coefficient of Variation of inter-burst intervals) across high-volume simulated paths to evaluate system resilience.
