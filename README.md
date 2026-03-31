@@ -44,9 +44,16 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 
 ---
 
+### Languages
+* **Mandarin & Gan**: Native proficiency.
+* **English**: Full Professional Proficiency (C1/C2).
+* **German**: Currently learning (A2).
+
+---
+
 ###  Education background
 * **Bachelor of Science in Mathematics, Financial Mathematics & Statistics** 
-* **Focus:** Stochastic Processes, PDEs, Measure Theory, Numerical Analysis.
+* **Focus:** Stochastic Processes, PDEs, Measure Theory, Numerical Analysis, Financial Derivatives, Data Structures and Algorithms.
 * **Honors:** Recipient of competitive research scholarships (Denison Research Scholar, VRI) and academic achievement awards.
 
 ---
