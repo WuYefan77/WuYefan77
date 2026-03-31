@@ -1,6 +1,8 @@
 # Hi, I'm Yefan Wu 
 
-I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematical foundation and a passion for extreme performance optimization. My work bridges the gap between complex stochastic theories and high-performance numerical implementations.
+**Quantitative Researcher | Algorithm Engineer | Applied Mathematician**
+
+I bridge the gap between **complex stochastic theories** and **high-performance numerical implementations**. I am passionate about extreme performance optimization, mathematical modeling, and pushing computational limits.
 
 ---
 
@@ -42,13 +44,18 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
 
 ---
 
-### Education
-
-* **Bachelor of Science in Mathematics, Financial Mathematics & Statistics**
-    * Focus: Stochastic Processes, PDEs, Measure Theory, and Numerical Analysis.
-    * Honors: Recipient of multiple competitive research scholarships and academic achievement awards.
+###  Education background
+* **Bachelor of Science in Mathematics, Financial Mathematics & Statistics** 
+* **Focus:** Stochastic Processes, PDEs, Measure Theory, Numerical Analysis.
+* **Honors:** Recipient of competitive research scholarships (Denison Research Scholar, VRI) and academic achievement awards.
 
 ---
+
+### ⚡ Beyond the Math & Code
+When I'm not debugging numerical solvers or proving convergence theorems, you can find me:
+* **Extreme Solo Backpacking:** Exploring off-the-beaten-path destinations. Highlights include solo mountaineering in New Zealand's snow peaks and trekking the Australian Outback.
+* **Audio & Signal Tinkering:** Playing electric guitar and obsessing over analog effect pedals & tone crafting. I'm a massive fan of Post-Rock, Shoegaze, and Space Rock (and a proud collector of rare first-pressing vinyls).
+* **Strategy & Philosophy:** Playing Go (Weiqi), writing traditional Chinese poetry by hand, and exploring Taoist philosophy to find the signal in the noise.
 
 *"Exploring the intersection of mathematical rigor and computational limits."*
 
