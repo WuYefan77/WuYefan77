@@ -19,10 +19,13 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
     * Extended the analytical framework to non-autonomous systems $\mathbf{Q}(t)$ using **RK45 numerical integration** to simulate counterfactuals under dynamic, time-varying covariates.
 
 
-* **Quantitative Finance & Pricing**: Built a modular engine for pricing complex financial derivatives.
-    * Implemented **Monte Carlo simulations** and **Finite Difference Methods (PDE)** for Exotic Options pricing.
-    * Applied **Variance Reduction** techniques to significantly enhance simulation efficiency.
-    * Experienced in stochastic control and time-series modeling for dynamic portfolio optimization.
+* **Quantitative Portfolio Construction & Risk Management**: Architected an institutional-grade, Object-Oriented (OOP) toolkit for Strategic Asset Allocation (SAA) and model stress-testing.
+
+  * Developed a robust **Mean-Variance Optimisation** engine utilising Sequential Least Squares Programming (**SLSQP**) to handle complex, real-world institutional mandates (e.g., asymmetric bounds, zero-weighting, and sector-level concentration caps).
+  * Implemented an advanced **Model Fragility Testing** framework to evaluate optimizer behavior under stressed and economically unsound correlation regimes.
+  * Engineered a numerical repair module using **Eigenvalue Decomposition** and **Clipping** to project non-Positive Semi-Definite (non-PSD) covariance matrices back onto the PSD cone, ensuring mathematical validity for corrupted market inputs.
+  * Conducted dual-metric evaluations contrasting pure mathematical efficiency (Sharpe Ratio) against investor risk preferences (**Exponential Utility functions** under CARA assumptions).
+
 
 * **Stochastic Dynamics & Complex Systems Modeling**:
    * Architected a 5D non-linear Stochastic Differential Equation (SDE) framework with multiplicative noise (square-root diffusion) to model state-dependent volatility in biophysical networks.
