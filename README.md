@@ -27,10 +27,10 @@ I am a **Quantitative Researcher & Algorithm Engineer** with a strong mathematic
   * Conducted dual-metric evaluations contrasting pure mathematical efficiency (Sharpe Ratio) against investor risk preferences (**Exponential Utility functions** under CARA assumptions).
 
 
-* **Stochastic Dynamics & Complex Systems Modeling**:
-   * Architected a 5D non-linear Stochastic Differential Equation (SDE) framework with multiplicative noise (square-root diffusion) to model state-dependent volatility in biophysical networks.
-   * Engineered a decoupled Monte Carlo engine featuring a custom Euler-Maruyama solver, memory-caching, and systematic deterministic ablation studies (factor knockouts) to identify dynamic bifurcations.
-   * Quantified temporal reliability degradation by extracting event-driven signals (Coefficient of Variation of inter-burst intervals) across high-volume simulated paths to evaluate system resilience.
+* **Stochastic Dynamics & Complex Systems Modeling:** Modeled the impact of intrinsic noise on the reliability of bursting rhythms in high-dimensional biophysical networks (CA1 Pyramidal Cells).
+  * Architected a 5D non-linear **Stochastic Differential Equation** (SDE) framework with multiplicative noise (square-root diffusion) to capture state-dependent volatility.
+  * Engineered a decoupled Monte Carlo simulation engine, featuring a custom **Euler-Maruyama** solver and systematic deterministic ablation studies (factor knockouts), to identify dynamic bifurcations.
+  * Quantified temporal reliability degradation by extracting event-driven signals (e.g., inter-burst intervals) across high-volume simulated paths and evaluated system resilience using statistical metrics (Coefficient of Variation).
 
 ---
 
