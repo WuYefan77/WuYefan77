@@ -52,7 +52,7 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 ---
 
 ###  Education background
-* **Bachelor of Science in Mathematics, Financial Mathematics & Statistics** 
+* **Bachelor of Science in Mathematics, Financial Mathematics & Statistics**.
 * **Focus:** Stochastic Processes, PDE and Waves, Mathematical Computing, Measure Theory and Fourier Analysis(Lp \& Hilbert Space), Analysis (Real \& Complex), Data Structures and Algorithms, Financial Derivatives.
 * **Honors:** Recipient of competitive research scholarships (Denison Research Scholar, Vacation Research internship) and academic achievement awards.
 
