@@ -53,7 +53,7 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 
 ###  Education background
 * **Bachelor of Science in Mathematics, Financial Mathematics & Statistics** 
-* **Focus:** Stochastic Processes, PDE and Waves, Mathematical Computing, Measure Theory and Fourier Analysis(Lp \& Hilbert Space), Analysis (Real \& Complex), Data Structures and Algorithms.
+* **Focus:** Stochastic Processes, PDE and Waves, Mathematical Computing, Measure Theory and Fourier Analysis(Lp \& Hilbert Space), Analysis (Real \& Complex), Data Structures and Algorithms, Financial Derivatives
 * **Honors:** Recipient of competitive research scholarships (Denison Research Scholar, VRI) and academic achievement awards.
 
 ---
@@ -61,7 +61,7 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 ### Beyond the Math & Code
 When I'm not pushing the limits of numerical solvers or analyzing stochastic processes, you can find me:
 
-* **Applied Signal Processing:** Tweaking electric guitar effects pedals to dial in the perfect tone. I'm a massive fan of Shoegaze, Post-rock, Space, and Psychedelic rock, and an avid collector of rare first-press vinyls and CDs.
+* **Applied Signal Processing:** Tweaking electric guitar effects pedals to dial in the perfect tone. I'm a massive fan of Shoegaze, Post Rock, Space and Psychedelic Rock, and an avid collector of rare first-press vinyls and CDs.
 * **Solo Off-the-Grid Backpacking:** Exploring the world's most remote landscapes. I've trekked the Australian Red Centre, summited snow peaks in New Zealand, navigated the wintery wilderness of East Hokkaido, and reached the northernmost point of mainland UK in the Scottish Highlands.
 * **Strategy & Philosophy:** Playing Go (Weiqi), composing traditional Chinese poetry, and exploring Daoist philosophy—finding the perfect equilibrium in both complex systems and life.
 
