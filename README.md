@@ -65,6 +65,6 @@ When I'm not pushing the limits of numerical solvers or analyzing stochastic pro
 * **Solo Off-the-Grid Backpacking:** Exploring the world's most remote landscapes. I've trekked the Australian Red Centre, summited snow peaks in New Zealand, navigated the wintery wilderness of East Hokkaido, and reached the northernmost point of mainland UK in the Scottish Highlands.
 * **Strategy & Philosophy:** Playing Go (Weiqi), composing traditional Chinese poetry, and exploring Daoist philosophy—finding the perfect equilibrium in both complex systems and life.
 
-*"Exploring the intersection of mathematical rigor and computational limits."*
+*"For stochastic tomorrow."*
 
 **Reach me at**: [wuyefan718@gmail.com]
