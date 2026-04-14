@@ -45,9 +45,9 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 ---
 
 ### Languages
-* **Mandarin & Gan**: Native proficiency.
+* **Mandarin & Gan**: Native Proficiency.
 * **English**: Full Professional Proficiency (C1/C2).
-* **German**: Currently learning (A2).
+* **German**: Currently Learning (A2).
 
 ---
 
