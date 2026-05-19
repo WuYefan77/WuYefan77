@@ -52,7 +52,7 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 ### Conference Presentations
 
 * **MTNS 2026 (Oral Presentation)**
-  Extended abstract accepted at the International Symposium on Mathematical Theory of Networks and Systems, hosted by the University of Waterloo.
+  Extended abstract accepted at the International Symposium on Mathematical Theory of Networks and Systems, hosted by the University of Waterloo, Canada.
 
 ---
 ### Tech Stack
