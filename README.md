@@ -7,16 +7,17 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 
 ---
 
+```markdown
 ## Technical Highlights
 
 ### Numerical Optimization & Deep Equilibrium Models
 
-Developed high-precision solvers for Cascaded Monotone Equilibrium Networks (MonDEQs) using double-precision PyTorch implementations.
+Developed high-precision numerical solvers for Cascaded Monotone Equilibrium Networks (MonDEQs) using double-precision PyTorch implementations.
 
 - Investigated inexact splitting schemes achieving substantial computational acceleration while preserving global stability properties.
 - Studied latency effects in sequential fixed-point solvers and proposed mechanisms enabling real-time anytime convergence behavior.
-- Achieved numerical precision up to \(10^{-14}\) in coupled monotone inclusion systems.
-- Related theoretical results were accepted for oral presentation at MTNS 2026.
+- Achieved numerical precision up to `1e-14` in coupled monotone inclusion systems.
+- Related theoretical results were accepted for oral presentation at MTNS 2026 (International Symposium on Mathematical Theory of Networks and Systems).
 
 ---
 
@@ -24,21 +25,23 @@ Developed high-precision solvers for Cascaded Monotone Equilibrium Networks (Mon
 
 Designed deterministic continuous-time dynamical systems for modeling population flux and state transitions in longitudinal biological data.
 
-- Solved high-dimensional linear ODE systems using matrix exponential methods, eliminating numerical stepping errors and preserving probability mass consistency under irregular sampling.
+- Solved high-dimensional linear ODE systems using matrix exponential methods, ensuring exact probability mass conservation under irregular sampling.
 - Developed custom maximum-likelihood estimation pipelines with AIC/BIC-based model selection for sparse transition systems.
 - Incorporated observational uncertainty through mixture-likelihood formulations with latent probabilistic states.
-- Extended the framework to non-autonomous systems \( \mathbf{Q}(t) \) using RK45 integration for simulations under time-varying covariates.
+- Extended the framework to non-autonomous systems using RK45-based numerical integration under time-varying covariates.
 
 ---
 
 ### Quantitative Portfolio Construction & Risk Management
 
-Developed modular quantitative finance tools for strategic asset allocation, portfolio optimization, and stress testing.
+Developed modular quantitative frameworks for portfolio optimisation and institutional-style stress testing.
 
-- Implemented constrained mean-variance optimization pipelines using Sequential Least Squares Programming (SLSQP).
+- Implemented constrained mean-variance optimisation using Sequential Least Squares Programming (SLSQP).
 - Studied optimizer fragility under stressed and economically inconsistent correlation structures.
-- Developed numerical repair procedures for non-positive-semidefinite covariance matrices using eigenvalue decomposition and spectral clipping methods.
-- Evaluated portfolio behavior under both Sharpe-ratio-based objectives and exponential utility functions under CARA assumptions.
+- Developed covariance repair procedures using eigenvalue decomposition and PSD projection techniques.
+- Evaluated portfolio behaviour under both Sharpe-ratio optimisation and exponential utility objectives under CARA preferences.
+```
+
 ---
 
 ### Tech Stack
