@@ -6,41 +6,30 @@
 I bridge the gap between **complex stochastic theories** and **high-performance numerical implementations**. I work at the intersection of stochastic modeling, numerical methods, and scientific computing, with a focus on translating mathematical ideas into practical computational systems.
 
 ---
+### Technical Highlights
 
-```markdown
-## Technical Highlights
+* **Numerical Optimization & Deep Equilibrium Models**: Developed high-precision numerical solvers for Cascaded Monotone Equilibrium Networks (MonDEQs) using **PyTorch (Double Precision)**.
 
-### Numerical Optimization & Deep Equilibrium Models
+  * Investigated inexact splitting schemes achieving substantial computational acceleration while preserving global stability properties.
+  * Studied latency effects in sequential fixed-point solvers and proposed mechanisms enabling real-time **Anytime Convergence** behavior.
+  * Achieved numerical precision up to **$10^{-14}$** in coupled monotone inclusion systems.
+  * Related theoretical results were accepted as an **oral presentation at MTNS 2026**, hosted by the University of Waterloo.
 
-Developed high-precision numerical solvers for Cascaded Monotone Equilibrium Networks (MonDEQs) using double-precision PyTorch implementations.
+* **Continuous-Time Dynamics Modeling (Denison Research)**: Designed deterministic continuous-time dynamical systems for modeling population flux and state transitions in longitudinal biological data.
 
-- Investigated inexact splitting schemes achieving substantial computational acceleration while preserving global stability properties.
-- Studied latency effects in sequential fixed-point solvers and proposed mechanisms enabling real-time anytime convergence behavior.
-- Achieved numerical precision up to `1e-14` in coupled monotone inclusion systems.
-- Related theoretical results were accepted for oral presentation at MTNS 2026 (International Symposium on Mathematical Theory of Networks and Systems).
+  * Solved high-dimensional linear ODE systems via **Matrix Exponentials**, ensuring exact probability mass conservation for irregularly sampled observations.
+  * Developed custom **Maximum Likelihood Estimation (MLE)** pipelines with **AIC/BIC**-based model selection for sparse transition systems.
+  * Incorporated observational uncertainty through **Mixture Likelihood** formulations with latent probabilistic states.
+  * Extended the framework to non-autonomous systems $\mathbf{Q}(t)$ using **RK45 numerical integration** for time-dependent covariate simulations and counterfactual analysis.
 
----
+* **Quantitative Portfolio Construction & Risk Management**: Developed modular quantitative finance tools for strategic asset allocation, portfolio optimization, and stress testing.
 
-### Continuous-Time Dynamics Modeling
+  * Implemented constrained **Mean-Variance Optimisation** frameworks using **Sequential Least Squares Programming (SLSQP)**.
+  * Studied optimizer fragility under stressed and economically inconsistent correlation structures.
+  * Constructed numerical repair procedures for non-Positive Semi-Definite (non-PSD) covariance matrices via **Eigenvalue Decomposition**, clipping, and PSD projection.
+  * Evaluated portfolio performance under both **Sharpe Ratio** objectives and **Exponential Utility** formulations under CARA preferences.
 
-Designed deterministic continuous-time dynamical systems for modeling population flux and state transitions in longitudinal biological data.
 
-- Solved high-dimensional linear ODE systems using matrix exponential methods, ensuring exact probability mass conservation under irregular sampling.
-- Developed custom maximum-likelihood estimation pipelines with AIC/BIC-based model selection for sparse transition systems.
-- Incorporated observational uncertainty through mixture-likelihood formulations with latent probabilistic states.
-- Extended the framework to non-autonomous systems using RK45-based numerical integration under time-varying covariates.
-
----
-
-### Quantitative Portfolio Construction & Risk Management
-
-Developed modular quantitative frameworks for portfolio optimisation and institutional-style stress testing.
-
-- Implemented constrained mean-variance optimisation using Sequential Least Squares Programming (SLSQP).
-- Studied optimizer fragility under stressed and economically inconsistent correlation structures.
-- Developed covariance repair procedures using eigenvalue decomposition and PSD projection techniques.
-- Evaluated portfolio behaviour under both Sharpe-ratio optimisation and exponential utility objectives under CARA preferences.
-```
 
 ---
 
