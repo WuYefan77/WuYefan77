@@ -60,7 +60,7 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 * **Mathematics**: Stochastic Analysis, Dynamical Systems, Nonlinear Dynamics, Scientific Computing, Quantitative Modeling.
 * **Programming**: Python (PyTorch, NumPy, SciPy, Pandas, JAX, Numba), R, MATLAB, SQL.
 * **Tools & Workflow**: Linux, GitLab, LaTeX, XPPAUT.
-* 
+
 ---
 ### Experience
 
