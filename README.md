@@ -60,7 +60,12 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 * **Mathematics**: Stochastic Analysis, Dynamical Systems, Nonlinear Dynamics, Scientific Computing, Quantitative Modeling.
 * **Programming**: Python (PyTorch, NumPy, SciPy, Pandas, JAX, Numba), R, MATLAB, SQL.
 * **Tools & Workflow**: Linux, GitLab, LaTeX, XPPAUT.
+* 
+---
+### Experience
 
+* **Quantitative Trading Intern** — XY Investments (Shanghai)
+  Working on quantitative trading and systematic research workflows within a multi-strategy investment environment, with interests in stochastic modeling and market microstructure.
 ---
 
 ### Languages
