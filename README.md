@@ -55,17 +55,17 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
   Extended abstract accepted at the International Symposium on Mathematical Theory of Networks and Systems, hosted by the University of Waterloo, Canada.
 
 ---
+### Experience
+
+* **Quantitative Trading Intern** — XY Investments (Shanghai)
+  Working on quantitative trading and systematic research workflows within a multi-strategy investment environment, with interests in stochastic modeling and market microstructure.
+---
+
 ### Tech Stack
 
 * **Mathematics**: Stochastic Analysis, Dynamical Systems, Nonlinear Dynamics, Scientific Computing, Quantitative Modeling.
 * **Programming**: Python (PyTorch, NumPy, SciPy, Pandas, JAX, Numba), R, MATLAB, SQL.
 * **Tools & Workflow**: Linux, GitLab, LaTeX, XPPAUT.
-
----
-### Experience
-
-* **Quantitative Trading Intern** — XY Investments (Shanghai)
-  Working on quantitative trading and systematic research workflows within a multi-strategy investment environment, with interests in stochastic modeling and market microstructure.
 ---
 
 ### Languages
