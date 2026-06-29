@@ -69,8 +69,8 @@ I work on stochastic modeling, numerical methods, and optimization for high-dime
 ### Languages
 
 * **Mandarin & Gan**: Native proficiency.
-* **English**: Professional working proficiency (C1~C2).
-* **German**: Elementary proficiency (A2, currently learning).
+* **English**: Professional working proficiency (C1).
+* **German**: Intermediate proficiency (B1, currently learning).
 
 ---
 
