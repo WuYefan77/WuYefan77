@@ -8,26 +8,29 @@ I work on stochastic modeling, numerical methods, and optimization for high-dime
 ---
 ### Technical Highlights
 
-* **Numerical Optimization & Deep Equilibrium Models**: Developed high-precision numerical solvers for Cascaded Monotone Equilibrium Networks (MonDEQs) using **PyTorch (Double Precision)**.
+* **Numerical Optimization & Deep Equilibrium Models**
+  Developed PyTorch-based solvers for cascaded monotone equilibrium systems (MonDEQs) using double precision computation.
 
-  * Investigated inexact splitting schemes achieving substantial computational acceleration while preserving global stability properties.
-  * Studied latency effects in sequential fixed-point solvers and proposed mechanisms enabling real-time **Anytime Convergence** behavior.
-  * Achieved numerical precision up to **$10^{-14}$** in coupled monotone inclusion systems.
-  * Related theoretical results were accepted as an **oral presentation at MTNS 2026**, hosted by the University of Waterloo.
+  - Designed inexact splitting schemes to improve computational efficiency while maintaining numerical stability
+  - Analyzed latency in sequential fixed-point solvers and proposed mechanisms enabling anytime convergence behavior
+  - Achieved high numerical accuracy (up to 1e-14) in coupled monotone inclusion systems
+  - Work related to this project was accepted for oral presentation at MTNS 2026 (University of Waterloo)
 
-* **Continuous-Time Dynamics Modeling (Denison Research)**: Designed deterministic continuous-time dynamical systems for modeling population flux and state transitions in longitudinal biological data.
+* **Stochastic & Continuous-Time Modeling**
+  Built computational frameworks for continuous-time dynamical systems and stochastic process modeling in irregular time-series settings.
 
-  * Solved high-dimensional linear ODE systems via **Matrix Exponentials**, ensuring exact probability mass conservation for irregularly sampled observations.
-  * Developed custom **Maximum Likelihood Estimation (MLE)** pipelines with **AIC/BIC**-based model selection for sparse transition systems.
-  * Incorporated observational uncertainty through **Mixture Likelihood** formulations with latent probabilistic states.
-  * Extended the framework to non-autonomous systems $\mathbf{Q}(t)$ using **RK45 numerical integration** for time-dependent covariate simulations and counterfactual analysis.
+  - Implemented matrix-exponential based solvers for linear ODE systems with structured state transitions
+  - Developed probabilistic modeling pipelines with likelihood-based calibration and model selection
+  - Designed simulation framework for time-dependent systems using RK45-based numerical integration
+  - Incorporated uncertainty modeling via latent-state probabilistic representations
 
-* **Quantitative Portfolio Construction & Risk Management**: Developed modular quantitative finance tools for strategic asset allocation, portfolio optimization, and stress testing.
+* **Quantitative Portfolio & Risk Modeling**
+  Developed portfolio optimization and risk analysis tools for institutional quantitative finance applications.
 
-  * Implemented constrained **Mean-Variance Optimisation** frameworks using **Sequential Least Squares Programming (SLSQP)**.
-  * Studied optimizer fragility under stressed and economically inconsistent correlation structures.
-  * Constructed numerical repair procedures for non-Positive Semi-Definite (non-PSD) covariance matrices via **Eigenvalue Decomposition**, clipping, and PSD projection.
-  * Evaluated portfolio performance under both **Sharpe Ratio** objectives and **Exponential Utility** formulations under CARA preferences.
+  - Implemented constrained mean-variance optimization using SLSQP
+  - Designed covariance matrix stabilization methods via eigenvalue-based PSD projection
+  - Analyzed portfolio robustness under stressed correlation regimes
+  - Evaluated performance under Sharpe ratio and utility-based (CARA) objective functions
 ---
 
 ### Selected Research
