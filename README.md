@@ -3,7 +3,7 @@
 **Quantitative Research | Applied Mathematics | Scientific Computing**
 
 
-I bridge the gap between **complex stochastic theories** and **high-performance numerical implementations**. I work at the intersection of stochastic modeling, numerical methods, and scientific computing, with a focus on translating mathematical ideas into practical computational systems.
+I work on stochastic modeling, numerical methods, and optimization for high-dimensional systems, focusing on practical computational implementations.
 
 ---
 ### Technical Highlights
