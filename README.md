@@ -14,7 +14,7 @@ I work on stochastic modeling, numerical methods, and optimization for high-dime
   - Designed inexact splitting schemes to improve computational efficiency while maintaining numerical stability
   - Analyzed latency in sequential fixed-point solvers and proposed mechanisms enabling anytime convergence behavior
   - Achieved high numerical accuracy (up to 1e-14) in coupled monotone inclusion systems
-  - Work related to this project was accepted for oral presentation at MTNS 2026 (University of Waterloo)
+  - Work related to this project was accepted for oral presentation at MTNS 2026
 
 * **Stochastic & Continuous-Time Modeling**
   Built computational frameworks for continuous-time dynamical systems and stochastic process modeling in irregular time-series settings.
