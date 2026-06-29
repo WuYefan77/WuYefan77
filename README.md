@@ -32,11 +32,6 @@ I bridge the gap between **complex stochastic theories** and **high-performance 
 
 ### Selected Research
 
-* **Asymptotic-Guided Deep BSDEs for Non-Semimartingale Optimal Control**
-  *(SSRN, under review at Journal of Computational Finance)*
-  Research on deep BSDE methods and rough volatility models for high-dimensional stochastic control problems.
-  [[SSRN]](https://ssrn.com/abstract=6711078)
-
 * **Breakdown of Adiabatic Scaling and Noise-Induced Functional Synchronization in Deeply Quiescent Excitable Systems**
   *(arXiv, under review at Chaos)*
   Investigates coherence resonance, multiplicative noise, and stochastic synchronization in excitable nonlinear systems.
