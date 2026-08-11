@@ -1,93 +1,61 @@
-# Hi, I'm Yefan Wu 
+# Hi, I'm Yefan Wu
 
-**Quantitative Research | Applied Mathematics | Scientific Computing**
+**Applied Mathematics | Quantitative Research | Scientific Computing**
 
+I am a 2026 University of Sydney graduate working across stochastic modeling, nonlinear dynamics, numerical methods, and quantitative finance. I am especially interested in turning mathematical ideas into reproducible computational research.
 
-I work on stochastic modeling, numerical methods, and optimization for high-dimensional systems, focusing on practical computational implementations.
+## Research
 
----
-### Technical Highlights
+### Breakdown of Adiabatic Scaling and Noise-Induced Functional Synchronization in Deeply Quiescent Excitable Systems
 
-* **Numerical Optimization & Deep Equilibrium Models**
-  Developed PyTorch-based solvers for cascaded monotone equilibrium systems (MonDEQs) using double precision computation.
+*Single-author preprint; revised manuscript submitted to* **Chaos: An Interdisciplinary Journal of Nonlinear Science** *(August 2026).*
 
-  - Designed inexact splitting schemes to improve computational efficiency while maintaining numerical stability
-  - Analyzed latency in sequential fixed-point solvers and proposed mechanisms enabling anytime convergence behavior
-  - Achieved high numerical accuracy (up to 1e-14) in coupled monotone inclusion systems
-  - Work related to this project was accepted for oral presentation at MTNS 2026
+This work studies coherence resonance, multiplicative noise, and noise-induced functional synchronization in deeply quiescent excitable systems.
 
-* **Stochastic & Continuous-Time Modeling**
-  Built computational frameworks for continuous-time dynamical systems and stochastic process modeling in irregular time-series settings.
+[Read the preprint on arXiv](https://arxiv.org/abs/2605.06692)
 
-  - Implemented matrix-exponential based solvers for linear ODE systems with structured state transitions
-  - Developed probabilistic modeling pipelines with likelihood-based calibration and model selection
-  - Designed simulation framework for time-dependent systems using RK45-based numerical integration
-  - Incorporated uncertainty modeling via latent-state probabilistic representations
+### Cascaded Monotone Equilibrium Networks
 
-* **Quantitative Portfolio & Risk Modeling**
-  Developed portfolio optimization and risk analysis tools for institutional quantitative finance applications.
+Co-first-author work on splitting algorithms for cascaded monotone equilibrium systems, accepted for an oral presentation at the **International Symposium on Mathematical Theory of Networks and Systems (MTNS 2026)** at the University of Waterloo, Canada.
 
-  - Implemented constrained mean-variance optimization using SLSQP
-  - Designed covariance matrix stabilization methods via eigenvalue-based PSD projection
-  - Analyzed portfolio robustness under stressed correlation regimes
-  - Evaluated performance under Sharpe ratio and utility-based (CARA) objective functions
----
+[Explore the numerical solver](https://github.com/WuYefan77/MonDEQ-Numerical-Solver)
 
-### Selected Research
+## Quantitative & Computational Projects
 
-* **Breakdown of Adiabatic Scaling and Noise-Induced Functional Synchronization in Deeply Quiescent Excitable Systems**
-  *(arXiv, under review at Chaos)*
-  Investigates coherence resonance, multiplicative noise, and stochastic synchronization in excitable nonlinear systems.
-  [[arXiv]](https://arxiv.org/abs/2605.06692)
+- [**Portfolio Optimization Toolkit**](https://github.com/WuYefan77/Portfolio-Optimization-Toolkit) — constrained mean-variance optimization, covariance-matrix stabilization, stress testing, and risk-profile analysis.
+- [**Liver Dynamics Analysis**](https://github.com/WuYefan77/Liver-Dynamics-Analysis) — matrix-exponential and RK45 methods for continuous-time compartmental systems with irregular observations.
+- [**MonDEQ Numerical Solver**](https://github.com/WuYefan77/MonDEQ-Numerical-Solver) — PyTorch implementations of splitting methods for coupled monotone equilibrium systems.
 
-* **Noise-accelerated Kramers Escape and Coherence Resonance in a 5D Neural Manifold**
-  *(arXiv, under review at Physical Review E)*
-  Studies noise-driven transitions, bifurcation structures, and stochastic escape dynamics in high-dimensional neural oscillators.
-  [[arXiv]](https://arxiv.org/abs/2605.04088)
+## Experience
 
----
+- **Quantitative Trading Intern** — XY Investments, Shanghai  
+  *May 2026 – August 2026*
 
-### Conference Presentations
+## Education & Awards
 
-* **MTNS 2026 (Oral Presentation)**
-  Extended abstract accepted at the International Symposium on Mathematical Theory of Networks and Systems, hosted by the University of Waterloo, Canada.
+- **Bachelor of Science**, University of Sydney, 2026
+  - Double major in Mathematics and Financial Mathematics & Statistics
+  - Minor in Computer Science
+- **Denison Research Scholarship**, University of Sydney
+- **Engineering Vacation Research Internship Scholarship**, University of Sydney
 
----
-### Experience
+## Technical Skills
 
-* **Quantitative Trading Intern** — XY Investments (Shanghai)
-  Working on quantitative trading and systematic research workflows within a multi-strategy investment environment, with interests in stochastic modeling and market microstructure.
----
+- **Mathematics:** stochastic modeling, dynamical systems, nonlinear dynamics, numerical analysis, optimization, and quantitative finance
+- **Programming:** Python (PyTorch, NumPy, SciPy, Pandas, JAX, Numba), R, MATLAB, and SQL
+- **Tools:** Git, Linux, LaTeX, and XPPAUT
 
-### Tech Stack
+## Languages
 
-* **Mathematics**: Stochastic Analysis, Dynamical Systems, Nonlinear Dynamics, Scientific Computing, Quantitative Modeling.
-* **Programming**: Python (PyTorch, NumPy, SciPy, Pandas, JAX, Numba), R, MATLAB, SQL.
-* **Tools & Workflow**: Linux, GitLab, LaTeX, XPPAUT.
----
+- **Mandarin:** Native
+- **English:** Professional working proficiency (C1)
+- **German:** Intermediate (B1)
+- **Swedish:** Elementary (A2)
 
-### Languages
+## Beyond Mathematics & Computing
 
-* **Mandarin & Gan**: Native proficiency.
-* **English**: Professional working proficiency (C1).
-* **German**: Intermediate proficiency (B1, currently learning).
+I enjoy shoegaze, post-rock, space rock, and psychedelic rock, and I play electric guitar and collect physical music releases. I also travel independently, particularly through remote regions and long-distance overland routes.
 
----
+Other interests include Go (Weiqi), traditional Chinese poetry, and Daoist philosophy.
 
-###  Education background
-* **Bachelor of Science in Mathematics, Financial Mathematics & Statistics**.
-* **Focus:** Stochastic & Nonlinear Dynamics.
-* **Honors:** Recipient of competitive research scholarships (Denison Research Scholar, Vacation Research internship) and academic achievement awards.
-
----
-
-### Beyond Mathematics & Computing
-
-Outside research, I spend a significant amount of time exploring music, remote travel, and strategy games. I play electric guitar and enjoy experimenting with effects pedals, especially within Shoegaze, Post Rock, Space Rock, and Psychedelic Rock. I also collect rare first-press vinyl records and CDs. 
-
-I frequently travel alone through remote regions and long-distance overland routes. My journeys have included traveling across New Zealand from Cape Reinga to Bluff entirely by bus, exploring the Australian Outback, navigating the winter landscapes of East Hokkaido, and reaching the northernmost parts of the Scottish Highlands.
-
-I also enjoy Go (Weiqi), traditional Chinese poetry, and philosophy, particularly Daoist thought and strategic thinking in complex systems.
-
-
-**Reach me at**: [wuyefan718@gmail.com]
+**Contact:** [wuyefan718@gmail.com](mailto:wuyefan718@gmail.com)
