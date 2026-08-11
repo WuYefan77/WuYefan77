@@ -38,7 +38,6 @@ Co-first-author work on splitting algorithms for cascaded monotone equilibrium s
   - Minor in Computer Science
 - **Denison Research Scholarship**, University of Sydney
 - **Engineering Vacation Research Internship Scholarship**, University of Sydney
-- Recipient of academic achievement awards at Xi'an Jiaotong-Liverpool University
 
 ## Technical Skills
 
@@ -48,9 +47,10 @@ Co-first-author work on splitting algorithms for cascaded monotone equilibrium s
 
 ## Languages
 
-- **Mandarin & Gan:** Native
+- **Mandarin:** Native
 - **English:** Professional working proficiency (C1)
 - **German:** Intermediate (B1)
+- **Swedish:** Elementary (A2)
 
 ## Beyond Mathematics & Computing
 
