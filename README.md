@@ -8,11 +8,11 @@ I am a 2026 University of Sydney graduate working across stochastic modeling, no
 
 ### Breakdown of Adiabatic Scaling and Noise-induced Functional Synchronization in Deeply Quiescent Excitable Systems
 
-*Single-author article accepted for publication in* **Chaos: An Interdisciplinary Journal of Nonlinear Science** *(September 2026).*
+*Single-author research article published in* **Chaos: An Interdisciplinary Journal of Nonlinear Science**, **36**(10), 103119 (October 2026).
 
-This work studies coherence resonance, multiplicative noise, adiabatic Kramers scaling, and noise-induced functional synchronization in deeply quiescent excitable systems.
+This work investigates coherence resonance, multiplicative Feller noise, adiabatic Kramers scaling and its breakdown, and noise-induced functional synchronization in deeply quiescent excitable systems.
 
-[Read the accepted manuscript on arXiv](https://arxiv.org/abs/2605.06692)
+**Publication:** [Chaos (AIP Publishing)](https://doi.org/10.1063/5.0341643) | **Preprint:** [arXiv:2605.06692](https://arxiv.org/abs/2605.06692)
 
 ### Cascaded Monotone Equilibrium Networks
 
