@@ -50,7 +50,6 @@ Co-first-author work on splitting algorithms for cascaded monotone equilibrium s
 - **Mandarin:** Native
 - **English:** Professional working proficiency (C1)
 - **German:** Intermediate (B1)
-- **Swedish:** Elementary (A2)
 
 ## Beyond Mathematics & Computing
 
