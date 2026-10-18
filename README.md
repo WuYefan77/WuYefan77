@@ -2,7 +2,9 @@
 
 **Applied Mathematics | Quantitative Research | Scientific Computing**
 
-I am a 2026 University of Sydney graduate working across stochastic modeling, nonlinear dynamics, numerical methods, and quantitative finance. I am especially interested in turning mathematical ideas into reproducible computational research.
+I am an applied mathematics graduate from the University of Sydney, with research spanning stochastic dynamics, nonlinear systems, numerical optimization, and computational modeling. My work connects mathematical analysis with computational methods, from stochastic excitable systems and equilibrium networks to quantitative finance and biomedical modeling.
+
+**Links:** [ORCID](https://orcid.org/0009-0002-0297-4442) | [LinkedIn](https://www.linkedin.com/in/yefan-wu) | [Email](mailto:wuyefan718@gmail.com)
 
 ## Research
 
@@ -10,7 +12,7 @@ I am a 2026 University of Sydney graduate working across stochastic modeling, no
 
 *Single-author research article published in* **Chaos: An Interdisciplinary Journal of Nonlinear Science**, **36**(10), 103119 (October 2026).
 
-This work investigates coherence resonance, multiplicative Feller noise, adiabatic Kramers scaling and its breakdown, and noise-induced functional synchronization in deeply quiescent excitable systems.
+This study examines how multiplicative Feller noise shapes coherence resonance in deeply quiescent excitable systems. It identifies the breakdown of adiabatic Kramers scaling and investigates noise-induced functional synchronization.
 
 **Publication:** [Chaos (AIP Publishing)](https://doi.org/10.1063/5.0341643) | **Preprint:** [arXiv:2605.06692](https://arxiv.org/abs/2605.06692)
 
@@ -18,18 +20,18 @@ This work investigates coherence resonance, multiplicative Feller noise, adiabat
 
 Co-first-author work on splitting algorithms for cascaded monotone equilibrium systems, accepted for an oral presentation at the **International Symposium on Mathematical Theory of Networks and Systems (MTNS 2026)** at the University of Waterloo, Canada.
 
-[Explore the numerical solver](https://github.com/WuYefan77/MonDEQ-Numerical-Solver)
+**Research materials:** [Numerical solver](https://github.com/WuYefan77/MonDEQ-Numerical-Solver) | [Research poster](https://github.com/WuYefan77/MonDEQ-Numerical-Solver/blob/main/assets/research_poster.pdf)
 
 ## Quantitative & Computational Projects
 
+- [**Liver Dynamics Analysis**](https://github.com/WuYefan77/Liver-Dynamics-Analysis) — computational modeling of liver disease progression developed through a University of Sydney research project using confidential longitudinal clinical data. Implements continuous-time Markov models, matrix-exponential transition operators, likelihood-based parameter estimation, and time-varying ODE solvers.
 - [**Portfolio Optimization Toolkit**](https://github.com/WuYefan77/Portfolio-Optimization-Toolkit) — constrained mean-variance optimization, covariance-matrix stabilization, stress testing, and risk-profile analysis.
-- [**Liver Dynamics Analysis**](https://github.com/WuYefan77/Liver-Dynamics-Analysis) — matrix-exponential and RK45 methods for continuous-time compartmental systems with irregular observations.
-- [**MonDEQ Numerical Solver**](https://github.com/WuYefan77/MonDEQ-Numerical-Solver) — PyTorch implementations of splitting methods for coupled monotone equilibrium systems.
 
 ## Experience
 
 - **Quantitative Trading Intern** — XY Investments, Shanghai  
-  *May 2026 – August 2026*
+  *May 2026 – August 2026*  
+  Contributed to quantitative research and data analysis workflows, using Python to support analysis and automation.
 
 ## Education & Awards
 
@@ -41,9 +43,10 @@ Co-first-author work on splitting algorithms for cascaded monotone equilibrium s
 
 ## Technical Skills
 
-- **Mathematics:** stochastic modeling, dynamical systems, nonlinear dynamics, numerical analysis, optimization, and quantitative finance
-- **Programming:** Python (PyTorch, NumPy, SciPy, Pandas, JAX, Numba), R, MATLAB, and SQL
-- **Tools:** Git, Linux, LaTeX, and XPPAUT
+- **Mathematical Methods:** stochastic modeling, dynamical systems, numerical analysis, optimization, and quantitative finance
+- **Scientific Computing:** Python (PyTorch, NumPy, SciPy, Pandas, JAX, Numba), R, and MATLAB
+- **Data & Engineering:** SQL, Git, Linux, Streamlit, REST APIs, and GitLab CI
+- **Research Tools:** LaTeX and XPPAUT
 
 ## Languages
 
@@ -57,4 +60,3 @@ I enjoy shoegaze, post-rock, space rock, and psychedelic rock, and I play electr
 
 Other interests include Go (Weiqi), traditional Chinese poetry, and Daoist philosophy.
 
-**Contact:** [wuyefan718@gmail.com](mailto:wuyefan718@gmail.com)
